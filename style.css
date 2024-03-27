@@ -7,14 +7,14 @@ body
     height: 100vh;
     background-color: hsl(0, 0%, 95%);
 }
-.keys
+#keys
 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap:10px;
     padding: 25px;
 }
-.calculator
+#calculator
 {
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
@@ -22,7 +22,7 @@ body
     max-width: 500px;
     overflow: hidden;
 }
-.display
+#display
 {
     width: 100%;
     padding: 20px;
@@ -53,15 +53,15 @@ button:active
 {
     background-color: hsl(0, 0%, 50%);
 }
-.operator-btn
+#operator-btn
 {
     background-color: hsl(39, 100%, 50%);
 }
-.operator-btn:hover
+#operator-btn:hover
 {
     background-color: hsl(39, 100%, 65%);
 }
-.operator-btn:active
+#operator-btn:active
 {
     background-color: hsl(39, 100%, 75%);
 }
