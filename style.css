@@ -43,6 +43,7 @@ button
     font-size: 3rem;
     font-weight: bold;
     cursor:pointer;
+    user-select: none;
 }
 button:hover
 {
@@ -54,5 +55,13 @@ button:active
 }
 .operator-btn
 {
-    background-color: orange
+    background-color: hsl(39, 100%, 50%);
+}
+.operator-btn:hover
+{
+    background-color: hsl(39, 100%, 65%);
+}
+.operator-btn:active
+{
+    background-color: hsl(39, 100%, 75%);
 }
