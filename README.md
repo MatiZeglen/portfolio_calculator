@@ -1,6 +1,6 @@
 # https://matizeglen.github.io/portfolio_calculator/
 
-<p align="left"><img align="center" src="https://github.com/MatiZeglen/MatiZeglen/blob/90597d301745c89a9c1095b70abe4cc11ca1d497/kalkulator.jpg" alt="kalkulator png"/></p>
+<p align="left"><img align="center" src="https://github.com/MatiZeglen/MatiZeglen/blob/b51a798fd7420bdf893ef7797b41985242b69dac/kalkulator.jpg" alt="kalkulator png"/></p>
 <h1 align="center"> Welcome to my Simple Calculator Website! </h1>
 <h2 align="center"> This calculator can: <br>
 <h3 align="center"> Add <br>
