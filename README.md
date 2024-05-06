@@ -3,7 +3,7 @@
 <p align="left"><img align="center" src="https://github.com/MatiZeglen/MatiZeglen/blob/b51a798fd7420bdf893ef7797b41985242b69dac/kalkulator.jpg" alt="kalkulator png"/></p>
 <h1 align="center"> Welcome to my Simple Calculator Website! </h1>
 <h2 align="center"> This calculator can: <br>
-<h3 align="center"> Add <br>
+<h3 align="center"> - Add <br>
 - Substract <br>
 - Multiply <br>
 - Divide <br>
